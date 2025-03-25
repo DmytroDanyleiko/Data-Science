@@ -1,5 +1,8 @@
 # Real estate price prediction
 
+# Goal
+To predict the sales price for each house in the test set. 
+
 ## Project describe
 This project involves real estate price analysis and create ML-model for predict a price for buildings.
 
