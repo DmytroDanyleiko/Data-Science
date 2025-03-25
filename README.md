@@ -1,4 +1,4 @@
-# Data-Sience
+# Data Science
 Projects
 
 # This repository contain next projects:
