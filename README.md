@@ -3,4 +3,6 @@ Projects
 
 # This repository contain next projects:
 
-- Real estate price prediction
+- House price prediction
+- Fraud transaction
+- Client segmentation
